@@ -18,4 +18,4 @@ I learn by building. Most of what's here is real work in progress — three thin
 
 **Also:** Presidential Scholar · AI Platform Dev Intern @ Flmlnk · SURF interpretability fellow
 
-📫 [LinkedIn](https://www.linkedin.com/in/kwabenaadu) · [gurued.dev](https://gurued.dev)
+📫 [LinkedIn](https://www.linkedin.com/in/kwabenaadu) · [gurued.dev](https://gurued.dev) [Website](https://kobby-adjei.vercel.app/)
