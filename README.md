@@ -10,6 +10,8 @@ I learn by building. Most of what's here is real work in progress — three thin
 
 **[Creane](https://creane.me)** — Contextual Real Estate Agent Neural Engine. Lead follow-up, listing content, AI-drafted replies, and interactive 3D tours generated from walkthrough video (Gaussian splatting, gsplat, COLMAP, Modal GPUs).
 
+**[STONNE tools](https://github.com/ssamaha3-hub/stonne-tools)** — experiment automation for STONNE, a neural network accelerator simulator (team project). I built the sweep config parser and validation for all STONNE operations, the sweep expander and command builder, and the energy and results aggregation across runs.
+
 
 
 ---
